@@ -20,7 +20,7 @@ export default function Home() {
       <Contact />
 
       <footer className="bg-gray-800 text-white text-center py-8">
-        <p>&copy; 2026 Laya Myadam. All rights reserved.</p>
+        <p>&copy; 2026 Edwin Bosco. All rights reserved.</p>
       </footer>
     </main>
   )
