@@ -37,7 +37,7 @@ export default function Photo() {
             <div className="absolute w-[340px] h-[340px] border border-indigo-500/10 rounded-full animate-spin-slow"></div>
             <div className="relative w-72 h-72 md:w-80 md:h-80 rounded-full p-1 bg-gradient-to-tr from-indigo-500/50 to-cyan-500/50 shadow-[0_0_60px_rgba(99,102,241,0.3)] overflow-hidden">
               <div className="w-full h-full rounded-full overflow-hidden bg-slate-900">
-                <img src="/Laya-Photo.jpg" alt="Laya Myadam" className="w-full h-full object-cover opacity-90 transition-all" />
+                <img src="/part2.png" alt="Laya Myadam" className="w-full h-full object-cover opacity-90 transition-all" />
               </div>
             </div>
           </div>
