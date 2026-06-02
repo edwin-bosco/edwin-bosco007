@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Laya Myadam - AI Engineer Portfolio",
-  description: "AI Engineer specializing in Machine Learning, NLP, and Reinforcement Learning",
+  title: "EDWIN BOSCO - Frontend Developer Portfolio",
+  description: "Supply Chain Analyst at Primaflow",
 };
 
 export default function RootLayout({ children }) {
